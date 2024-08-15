@@ -2,6 +2,10 @@
 
 CineMatch is a personalized movie recommendation engine that helps users discover movies based on their preferences. Leveraging the power of machine learning and data-driven analysis, CineMatch suggests movies that match the user's taste, ensuring an enjoyable viewing experience.
 
+## Live Demo
+
+Check out the [live demo here](https://cinematch-io.streamlit.app/).
+
 ## 🚀 Features
 
 - **Personalized Recommendations**: Get movie suggestions tailored to your preferences.
