@@ -1,4 +1,4 @@
-# 🎥 CineMatch: Your Personalized Movie Discovery Engine 🍿
+# 🎥 CineMatch: Your Personalized Movie Recommender Engine 🍿
 
 CineMatch is a personalized movie recommendation engine that helps users discover movies based on their preferences. Leveraging the power of machine learning and data-driven analysis, CineMatch suggests movies that match the user's taste, ensuring an enjoyable viewing experience.
 
@@ -65,8 +65,4 @@ CineMatch is a personalized movie recommendation engine that helps users discove
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
